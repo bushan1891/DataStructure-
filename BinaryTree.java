@@ -98,7 +98,7 @@ public class BinaryTree {
 	}
 	
 	
-	public static void e(String[] args) {
+	public static void main(String[] args) {
 		
 		BinaryTree theTree = new BinaryTree();
 		
